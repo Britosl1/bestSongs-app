@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:Britosl1/bestSongs-app-frontend.git
